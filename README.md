@@ -12,7 +12,7 @@ Welcome to the **Landing Page** project! This repository contains the source cod
 
 - **HTML5**: For the structure of the page.
 - **CSS3**: For styling and layout.
-- **JavaScript**: For interactivity (if applicable).
+
 
 ## Getting Started
 
